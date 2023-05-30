@@ -1,0 +1,27 @@
+11. Write a Java program that connects to a MySQL database using JDBC. The program
+should read data from a table and display the results in the console.
+
+refer- jdbc1App
+
+12. Write a Java program that uses JDBC to implement a simple CRUD (create, read,
+update, delete) application. The program should allow users to add, view, update,
+and delete records in a MySQL database table.
+
+refer-JDBCCRUD
+
+13. Create a Java program that connects to a PostgreSQL database and executes a
+batch update. The program should read the input data from a file and insert it into the
+database using JDBC batch updates.
+
+refer-
+
+14. Create a Java servlet that reads the name of the user from a form and displays a
+welcome message on the web page. The servlet should use the GET method to read
+the input data from the user.
+
+refer- jdbc4App
+
+15. Write a Java servlet that reads the data from a MySQL database table and displays it
+in an HTML table on the web page. The servlet should use JDBC to connect to the
+database and retrieve the data.
+refer-JDBCMVCSELECT5
